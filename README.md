@@ -1,2 +1,0 @@
-# linux-guide
-Linuxディストリビューションガイド
