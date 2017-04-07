@@ -1,6 +1,6 @@
 # Linux デスクトップ環境ガイド
 
-2017 年 2 月版
+2017 年 4 月版
 
 # [GNOME](https://www.gnome.org/)
 
@@ -16,7 +16,11 @@ Ubuntu 特有のデスクトップ環境です。 GNOME をベースに初心者
 
 Ubuntu を使うならデスクトップ環境は Unity 固定です。 Ubuntu で他のデスクトップ環境を使いたければ公式フレーバーを使うことになります。
 
-現在の Unity7 は GNOME ベースですが、次世代の Unity8 は GNOME とは決別して全く新しい物になります。今のところわかっている情報では外観や使い勝手は Unity7 を踏襲して最新の流行を取り入れたものになるようです。
+Ubuntu の開発元である Canonical は Ubuntu 18.04 LTS で Unity をやめて GNOME3 を採用すると発表しました。今後は Unity はなくなっていく方向です。
+
+# [Budgie](https://solus-project.com/budgie/)
+
+独立系ディストリビューションである Solus によって開発されたデスクトップ環境です。 GNOME3 をベースにしながら、 GNOME2 の操作感を残したものになっています。全体的な操作感としては Mate よりも GNOME3 に近く、 Mate のような保守的なものではなく最新流行を取り入れて GNOME3 とは違った形で進化しています。
 
 # [Cinnamon](https://cinnamon-spices.linuxmint.com/)
 
