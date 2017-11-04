@@ -1,6 +1,6 @@
 # Linux デスクトップ環境ガイド
 
-2017 年 4 月版
+2017 年 10 月版
 
 # [GNOME](https://www.gnome.org/)
 
@@ -16,7 +16,7 @@ Ubuntu 特有のデスクトップ環境です。 GNOME をベースに初心者
 
 Ubuntu を使うならデスクトップ環境は Unity 固定です。 Ubuntu で他のデスクトップ環境を使いたければ公式フレーバーを使うことになります。
 
-Ubuntu の開発元である Canonical は Ubuntu 18.04 LTS で Unity をやめて GNOME3 を採用すると発表しました。今後は Unity はなくなっていく方向です。
+Ubuntu の開発元である Canonical は Ubuntu 18.04 LTS で Unity をやめて GNOME3 を採用すると発表しました。短期サポート版の 17.10 では一足早く Unity から GNOME への変更を果たしています。今後は Unity はなくなっていく方向ですが、残そうという動きもあるようです。
 
 # [Budgie](https://solus-project.com/budgie/)
 
@@ -29,6 +29,8 @@ GNOME3 から派生したデスクトップ環境で、標準の操作性は KDE
 # [Mate](https://mate-desktop.org/)
 
 GNOME2 から派生したデスクトップ環境で、標準の操作性は GNOME2 とほぼ同じなため、かつての GNOME2 愛用者から広く受け入れられているようです。ただし、ベースとなる技術は GNOME2 時代の GTK2+ から GNOME3 と同じ GTK3+ へと移行されています。
+
+GTK3+ への移行によって、従来のノスタルジックな操作感だけでなく、最新流行を取り入れた操作感も選ぶことができるようになっています。後述の Xfce と並び、幅広いカスタマイズが可能なデスクトップ環境になっています。
 
 # [Xfce](https://xfce.org/)
 
